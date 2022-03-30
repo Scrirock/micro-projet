@@ -1,0 +1,57 @@
+.card {
+    width: 30rem;
+    text-align: center;
+    margin: 0 2rem;
+}
+
+.cardTitle {
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1rem;
+    border: 1px solid #b5b5b5;
+    background-color: #dce4e6;
+}
+
+.cardPrice {
+    border: 1px solid #b5b5b5;
+    background-color: #e4ecee;
+}
+
+.cardPrice .infoPrice {
+    color: #8a8a8a;
+    font-size: 1.5rem;
+    margin: 1.3rem;
+}
+
+.benefits {
+    border: 1px solid #b5b5b5;
+    font-size: 2rem;
+    background-color: #ffffff;
+}
+
+.benefits p {
+    margin: 1.5rem 0;
+}
+
+.nbr {
+    color: #e11f21;
+}
+
+.price {
+    font-size: 7rem;
+    font-weight: bold;
+}
+
+.large {
+    font-size: 5rem;
+}
+
+sup {
+    font-size: 1.5rem;
+}
+
+.check {
+    font-size: 2rem;
+    color: #3eed26;
+    font-weight: bold;
+}

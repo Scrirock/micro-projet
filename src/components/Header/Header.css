@@ -1,0 +1,63 @@
+nav {
+    background-color: #06b3c4;
+    color: white;
+}
+
+.logo {
+    width: 15rem;
+}
+
+.pigeon {
+    width: 45rem;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem 0;
+}
+
+.img {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.text {
+    font-size: 1.5rem;
+    width: 35%;
+}
+
+.text h1 {
+    font-size: 4rem;
+}
+
+.text p {
+    margin: 2rem 0;
+}
+
+.text button {
+    background-color: #fff232;
+    padding: 1.3rem;
+    border-radius: 99rem;
+    font-weight: bold;
+}
+
+.menuLink {
+    display: inline-block;
+    margin: 0 1.2rem;
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: white;
+}
+
+small {
+    font-size: 1.2rem;
+    color: black;
+}

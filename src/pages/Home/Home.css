@@ -1,0 +1,41 @@
+.homeContainer {
+    background-color: #edeef2;
+}
+
+.title {
+    margin: 3rem 0;
+}
+
+.homeP {
+    color: #8a8a8a;
+    font-size: 1.8rem;
+    margin: .8rem auto;
+    width: 62rem;
+}
+
+.blue {
+    color: #06b8c2;
+}
+
+.largeFreeTrial {
+    text-align: center;
+    font-size: 3.5rem;
+    color: #d71053;
+    margin: 3.5rem 0;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+}
+
+.sign {
+    background-color: #06b8c2;
+    padding: 1.3rem 3rem;
+    border-radius: 99rem;
+    font-weight: bold;
+    margin: 3.8rem auto;
+    display: block;
+    color: white;
+}
